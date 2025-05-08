@@ -1,27 +1,27 @@
-# Introducci¢n a Docker ??
+# IntroducciÃ³n a Docker ğŸ³
 
-Este proyecto es una gu¡a b sica para aprender a usar Docker, una plataforma que permite desarrollar, enviar y ejecutar aplicaciones dentro de contenedores.
+Este proyecto es una guÃ­a bÃ¡sica para aprender a usar Docker, una plataforma que permite desarrollar, enviar y ejecutar aplicaciones dentro de contenedores.
 
-## ?? ¨Qu‚ es Docker?
+## ğŸ“˜ Â¿QuÃ© es Docker?
 
-Docker es una herramienta que permite empaquetar una aplicaci¢n y todas sus dependencias en un contenedor. Esto garantiza que se ejecutar  de manera consistente en cualquier entorno, ya sea desarrollo, prueba o producci¢n.
+Docker es una herramienta que permite empaquetar una aplicaciÃ³n y todas sus dependencias en un contenedor. Esto garantiza que se ejecutarÃ¡ de manera consistente en cualquier entorno, ya sea desarrollo, prueba o producciÃ³n.
 
-## ?? ¨Qu‚ aprender s?
+## ğŸ“¦ Â¿QuÃ© aprenderÃ¡s?
 
-- ¨Qu‚ es un contenedor y una imagen?
-- C¢mo instalar Docker
-- C¢mo crear un contenedor con una imagen b sica
-- C¢mo escribir un `Dockerfile`
-- C¢mo construir y ejecutar im genes personalizadas
-- Uso b sico de `docker-compose`
+- Â¿QuÃ© es un contenedor y una imagen?
+- CÃ³mo instalar Docker
+- CÃ³mo crear un contenedor con una imagen bÃ¡sica
+- CÃ³mo escribir un `Dockerfile`
+- CÃ³mo construir y ejecutar imÃ¡genes personalizadas
+- Uso bÃ¡sico de `docker-compose`
 
-## ?? Requisitos
+## ğŸ›  Requisitos
 
 - Tener instalado [Docker](https://www.docker.com/get-started) (Docker Engine y Docker CLI)
-- Conocimientos b sicos de terminal y sistemas operativos tipo Unix
+- Conocimientos bÃ¡sicos de terminal y sistemas operativos tipo Unix
 - Editor de texto recomendado: VS Code
 
-## ?? Comenzando
+## ğŸš€ Comenzando
 
 ### 1. Clona el repositorio
 
